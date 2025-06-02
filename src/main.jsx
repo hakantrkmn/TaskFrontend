@@ -8,7 +8,7 @@ import App from './app';
 // ----------------------------------------------------------------------
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
-
+console.log('Hello World');
 root.render(
   <HelmetProvider>
     <BrowserRouter>
